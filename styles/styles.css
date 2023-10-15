@@ -343,7 +343,7 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+  width: 90%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
@@ -355,15 +355,15 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+  width: 30%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+  width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .php {
+  width: 45%;
 }
 
 .stat-title {
